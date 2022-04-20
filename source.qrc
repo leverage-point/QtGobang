@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/new">
+        <file>sound/chessone.wav</file>
+        <file>sound/lose.wav</file>
+        <file>sound/win.wav</file>
+        <file>image/background.png</file>
+        <file>image/begingame.png</file>
+        <file>sound/background.wav</file>
+        <file>image/background2.png</file>
+    </qresource>
+</RCC>
